@@ -10,3 +10,4 @@ http://openam.forgerock.org
 https://www.forgerock.com/products/access-management/
 
 
+http://www.manageability.org/blog/stuff/single-sign-on-in-java/view
