@@ -16,3 +16,6 @@ https://success.mindtouch.com
 
 http://doc.sdk.tango.me/index.html
 
+http://www.codeproject.com/Articles/746569/Sharing-Experience-of-SSO-Integration-via-SAML-Res
+
+https://wiki.eclipse.org/Stardust/Knowledge_Base/Security/Single_Sign-on/SSO_using_JAAS_and_GSS_API_with_Apache_DS_and_Kerberos
