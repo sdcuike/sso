@@ -10,6 +10,9 @@ https://github.com/Jasig/cas
 
 
 
+http://www.zhihu.com/question/25400195
+
+
 
 http://www.josso.org/confluence/display/JOSSO1/JOSSO+-+Java+Open+Single+Sign-On+Project+Home
 
